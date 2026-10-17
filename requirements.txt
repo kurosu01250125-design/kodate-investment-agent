@@ -1,0 +1,4 @@
+zstreamlit
+requests
+beautifulsoup4
+google-genai
